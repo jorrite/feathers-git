@@ -1,0 +1,21 @@
+{
+  "name": "feathers-git",
+  "version": "0.0.1",
+  "description": "Feathers service that leverages the file system and git to store objects (in json) and optional related files.",
+  "main": "lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "feathers",
+    "service",
+    "feathers-service",
+    "git",
+    "fs"
+  ],
+  "author": "Jorrit Elfferich",
+  "license": "MIT",
+  "devDependencies": {
+    "rimraf": "^2.5.2"
+  }
+}
